@@ -1,0 +1,12 @@
+{
+    "App Name": "RYTC | Learning",
+
+    "Server": {
+        "Backend": {
+
+        },
+        "Frontend": {
+            "PORT": "5000"
+        }
+    }
+}

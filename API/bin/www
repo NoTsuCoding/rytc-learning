@@ -1,0 +1,13 @@
+const app = require("../app")
+const http = require("http")
+
+const svConfig = require("../config/server.json")
+
+const server = http.createServer(app)
+
+const PORT = svConfig.port
+const HOSTNAME = svConfig.hostname
+
+server.listen(PORT, HOSTNAME, () => {
+   console.log("Server's listening on PORT 3000") 
+})

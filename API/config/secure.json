@@ -1,0 +1,5 @@
+{
+    "jwt-tokens-secret": "1f#i1;#WZ@D^R;76@O{vun=~4)8$-q=&Jl2}~T)!p_ok7bh7ft",
+    "jwt-access-token-expired-in": "1d",
+    "jwt-refresh-token-expired-in": "7d"
+}

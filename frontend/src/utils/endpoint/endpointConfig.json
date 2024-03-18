@@ -1,0 +1,13 @@
+{
+    "HOST": "http://localhost:3000",
+    "ENDPOINTS" : {
+        "LOGIN" : {
+            "METHOD": "GET",
+            "PATH": "/authentication/login"
+        },
+        "GET_PROFILE": {
+            "METHOD": "GET",
+            "PATH": "/user/profile"
+        }
+    }
+}

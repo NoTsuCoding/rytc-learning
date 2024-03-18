@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "database": "rytc_learning",
+    "user": "root",
+    "password": "",
+    "connectionLimit": 10,
+    "connectTimeout": 10000
+}

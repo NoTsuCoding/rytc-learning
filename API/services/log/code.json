@@ -1,0 +1,13 @@
+{
+    "EVENT": {
+        "LOG_IN": 1,
+        "REFRESH": 2
+    },
+    "PARAMETER": {
+        "USERNAME": 1,
+        "IP_ADDRESS": 2,
+        "STATUS": 3,
+        "REFRESH_TOKEN": 4,
+        "MESSAGE": 5
+    }
+}

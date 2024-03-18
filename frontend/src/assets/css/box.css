@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.box .row.header {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+.box .row.content {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+}/*# sourceMappingURL=box.css.map */
